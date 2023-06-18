@@ -1,0 +1,5 @@
+{
+  "signUpEndPoint": "https://peaceful-plateau-24600.herokuapp.com/signup",
+  "apiEndPoint": "https://peaceful-plateau-24600.herokuapp.com",
+  "tokenKey": "frisky-token"
+}
